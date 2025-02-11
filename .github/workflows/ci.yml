@@ -1,4 +1,4 @@
-name: Run pytest on [pull_request]
+name: Run pytest on PR
 
 on:
   pull_request:
