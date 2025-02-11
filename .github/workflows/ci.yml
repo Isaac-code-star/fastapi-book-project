@@ -1,4 +1,4 @@
-name: Run pytest on: [pull_request]
+name: Run pytest on [pull_request]
 
 on:
   pull_request:
@@ -25,4 +25,3 @@ jobs:
  
  
     Enter fullscreen mode
-    
